@@ -5,7 +5,7 @@
   "background_color": "#D99D81",
   "display": "standalone",
   "orientation": "",
-  "scope": "/",
+  "scope": "https://dinahellal.github.io/",
   "start_url": "/Dina-Hellal",
   "icons": [
     {
