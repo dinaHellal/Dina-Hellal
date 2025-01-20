@@ -19,7 +19,7 @@ function getData() {
         <div class="avatar">
           <img src="${data.avatar_url}" alt="${data.name}" />
           <h1>${data.name}</h1>
-          <a hraf="${data.html_url}"target="_blank" > GitHub Profile</a>
+            <a class ="profile" href="${data.html_url }" target= "_blank">GitHub Progile</a>
         </div>
       `;
     });
