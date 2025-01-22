@@ -1,4 +1,6 @@
 {
+  "manifest_version":" 2",
+  "version": " 1.0",
   "name": "Dina Hellal",
   "short_name": "Dina Hellal",
   "theme_color": "#D99D81",
