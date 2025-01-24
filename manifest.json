@@ -7,9 +7,9 @@
   "background_color": "#D99D81",
   "display": "standalone",
   "orientation": "",
-  "scope": "/",
+  "scope": "https://dinahellal.github.io/Dina-Hellal/",
   "start_url": "https://dinahellal.github.io/Dina-Hellal/",
-  "id":"/Dina-Hellal" ,
+  "id":"https://dinahellal.github.io/Dina-Hellal/" ,
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
